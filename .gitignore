@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dữ liệu lớn (nếu muốn)
+data/01_raw/step1_pm25.csv
+
+# Hệ điều hành
+.DS_Store
+Thumbs.db
