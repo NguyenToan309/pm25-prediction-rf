@@ -153,7 +153,7 @@ project_pm2.5/
 ### 1. Clone dự án
 
 ```bash
-git clone https://github.com/<your-username>/project_pm2.5.git
+git clone https://github.com/NguyenToan309/pm25-prediction-rf.git
 cd project_pm2.5
 ```
 
