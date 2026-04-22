@@ -207,10 +207,6 @@ Chạy lần lượt:
 
 ---
 
-## 📄 License
 
-Dự án này được phát hành dưới giấy phép [MIT License](LICENSE).
-
----
 
 *Được xây dựng với mục đích nghiên cứu & học thuật về Air Quality Forecasting tại Việt Nam.*
